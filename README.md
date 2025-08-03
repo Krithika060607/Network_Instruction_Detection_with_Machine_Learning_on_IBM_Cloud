@@ -22,10 +22,3 @@ Basically, a machine-learning model was developed that can learn from network tr
 (You may choose to use Random Forest, Logistic Regression, etc.)
 ---
 
-## 📂 Project Structure
-├── README.md
-├── NIDS_Model.ipynb
-├── nids_model.pkl
-└── data.csv
-
-
